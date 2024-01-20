@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment 613</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1, h2, p {
+            margin-bottom: 15px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Experiment 613</h1>
+    </header>
+
+    <section>
+        <h2>613 Bio:</h2>
+        <p>Joshua Shaw, also known as Prototype 613. Discover more about this individual.</p>
+    </section>
+
+    <section>
+        <h2>My Hobbies</h2>
+        <ul>
+            <li>Enjoying recreational activities</li>
+            <li>Building connections with others</li>
+            <li>Exploring various interests</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Joshua, aka 'Prototype 613', Shaw. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
